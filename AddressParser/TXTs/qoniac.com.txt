@@ -1,0 +1,96 @@
+KLA Advance
+KLA EIR
+KLA Foundation
+KLA Instruments
+SPTS
+Company
+Impact
+Products & Technology
+Services
+Careers
+Investors
+Contact
+Semiconductor Software Solutions
+KLA’s software solutions for the semiconductor ecosystem centralize and analyze the data produced by inspection, metrology and process systems, and explore critical-feature designs and manufacturability of patterning technologies. Using advanced data analysis, modeling and visualization capabilities, our comprehensive suite of data analytics products support applications such as run-time process control, defect excursion identification, wafer and reticle dispositioning, scanner and process corrections, and defect classification. Our patterning simulation software allows researchers to cost-effectively evaluate advanced patterning technologies, such as EUV lithography and multiple patterning techniques. By distilling trillions of gigabytes of data into actionable information, our data management, data analysis and patterning simulation systems help chip, wafer, reticle and packaging manufacturers accelerate yield learning rates and reduce production risk.
+Contact Us
+General Inquiry
+Product Categories
+All
+Klarity®
+Automated Defect and Yield Data Analysis
+Klarity® Defect automated defect analysis and data management system helps fabs achieve faster yield learning cycles through real-time excursion identification. Klarity® SSA (Spatial Signature Analysis) analysis module for Klarity Defect provides automatic detection and classification of defect signatures that indicate process issues. Klarity® ACE XP advanced yield analysis system helps fabs capture, retain and share yield learning within and across fabs for yield acceleration. Klarity systems utilize an intuitive decision flow analysis, allowing engineers to easily create customized analyses that support applications such as lot dispositioning, review sampling, defect source analysis, SPC setup and management, and excursion notifications. Klarity Defect, Klarity SSA and Klarity ACE XP form a fab-wide yield solution that automatically reduces defect inspection, classification and review data to relevant root-cause and yield-analysis information. Klarity data helps IC, packaging, compound semi and HDD manufacturers take corrective action sooner, resulting in accelerated yield and better time to market.
+Show Details
+OVALiS
+On‐product Process Optimization, Diagnostics, Monitoring and Control
+The OVALiS software suite is utilized by leading-edge semiconductor lithography and patterning teams for on-product process optimization and control. OVALiS uses a single database to combine metrology data with context information from various types of equipment, as well as mass context information from fab automation. Using simulation, diagnostics, monitoring, and process optimization, this data helps optimize and improve on-product performance. The OVALiS software suite consists of different modules that can be used independently, or synergistically, and can seamlessly integrate into a fab’s SPC, FDC and yield management systems.
+Applications
+On-product process optimization, Diagnostics, Process simulation, Overlay control, Scanner qualification, Scanner correction, Patterning control
+Show Details
+5D Analyzer®
+Advanced Data Analysis and Patterning Control
+The 5D Analyzer® run-time process control solution supports analytics and visualization for advanced node process optimization, process monitoring and patterning control. It accepts data from a broad range of sources across the fab, including: overlay, reticle registration, wafer geometry, chamber temperature, films, CD, and profile metrology systems; process tools; and scanners. With applications such as advanced overlay analysis and correlation of reticle and wafer shape data to patterning errors, 5D Analyzer enables a variety of offline and real-time use cases for advanced patterning control.
+Show Details
+aiSIGHT™
+Pattern-Centric Defect and Metrology Software Solution
+The aiSIGHT™ software solution leverages acquired SEM (scanning electron microscope) images and chip design information to provide a broad set of defect and pattern measurement information. The aiSIGHT (Anchor Integrated SEM Image Guided Hotspot Toolkit) software is tool agnostic – using SEM images from all manufacturers’ e-beam inspection, review and metrology systems. aiSIGHT can detect and classify defects, perform massive metrology measurements, and measure specific patterns. By extracting previously unseen information from available SEM images, aiSIGHT helps chip manufacturers gain detailed insight into the defect or pattern issues that affect yield or final chip performance.
+Show Details
+Anchor Pattern Centric Yield Manager
+Automated Design Decomposition and Pattern Risk Scoring
+The Anchor Pattern Centric Yield Manager begins by creating the Design Decomposition Database™ using a set of parametric search rules to extract patterns of interest. Patterns in the Design Decomposition Database are then scored based on all available information sources, including OPC simulation, statistical or geometrical sources (design signatures), and empirical sources such as pattern fidelity information extracted from SEM images. When all patterns are scored (or ranked), Anchor Pattern Centric Yield Manager:
+Assesses the process marginality or risk of each pattern and generates pattern risk score trends over time
+Compares a new tape-out against a reference design to identify pattern risk factors
+Creates optical and e-beam inspection care areas
+Performs improved defect sampling for SEM review
+Provides pattern risk feedback to OPC / Lithography teams
+Show Details
+Anchor Pattern Centric Machine Learning
+Automated Design Decomposition and Parametric Rules Search
+The Anchor Pattern Centric Machine Learning bridges the printed pattern database and the Design Decomposition Database™ to enable entirely new opportunities for yield learning and process optimization by predicting pattern risk scores that are more reliable than purely statistical or geometrical signatures. Anchor Pattern Centric Machine Learning:
+Builds a machine learning model from the data contained in the Printed Pattern Database
+Predicts pattern risk scores on nearly all the patterns contained in the much larger Design Decomposition Database
+Captures new SEM images that are continuously generated in the fab into the Printed Pattern Database
+Enables continuous learning to improve its prediction accuracy moving it closer to an expert system
+Show Details
+SPOT®
+Automated predictive analytics for fab process and yield management
+The SPOT® automated predictive analysis solution is a production machine learning platform used in chip manufacturing fabs. SPOT (Sample Plan Optimization Toolkit) improves the capture rate of critical defects of interest (DOI) by using a combination of customizable machine learning techniques and statistical algorithms. Inspection and review data is comprehensively analyzed on powerful, scalable computing architecture, using advanced machine learning models to identify and predict real defects of interest and separate them from nuisance defects. An optimized, targeted review sample plan is automatically generated which can discover more DOI and show wafer signatures previously buried in nuisance noise.
+Show Details
+I-PAT®
+Inline Die-Level Screening
+The I-PAT® (Inline Defect Part Average Testing) method allows automobile manufacturers to reduce the incidence of latent reliability defects in semiconductor electronic components, recognize at-risk die for exclusion from the supply chain and reduce the incidence of escapes of die that will fail prematurely from the fab. I-PAT runs on KLA inspection and data analytics systems. It begins by extracting defect characteristics from data collected for all wafers at critical process steps by the high speed 8 Series inspectors or the Puma™ laser scanning inspectors. I-PAT then leverages customized machine learning algorithms on the SPOT® production platform and the statistical analysis capabilities of the Klarity® defect management system to identify outlier defect populations so at-risk chips can be removed from the supply chain. By identifying die with outlier defect populations across critical process steps, I-PAT helps automotive chipmakers achieve high reliability and quality.
+Show Details
+RDC
+Reticle Data Analysis and Management
+The RDC (Reticle Decision Center) comprehensive data analysis and management system supports multiple KLA reticle inspection and metrology platforms for reticle qualification in both mask shops and IC fabs. RDC provides a wide array of innovative solutions for reticle quality control, including KlearView™, Automatic Defect Classification, Lithography Plane Review, Defect Progression Monitor, Aerial Image Analyzer, and more (see Modules tab below). These RDC components drive automated defect disposition decisions, improve cycle time and reduce the reticle-related patterning errors that can affect yield. In addition to providing critical applications, RDC serves as a central data management system utilizing a high reliability, flexible server configuration.
+Show Details
+PROLITH™
+Real Virtual Patterning
+The PROLITH™ lithography and patterning simulation solution uses innovative models to accurately simulate how designs will print on the wafer. PROLITH is used by IC, LED and MEMS manufacturers, scanner companies, track companies, mask manufacturers, material providers and research consortia to cost-effectively evaluate patterning technologies, including EUV lithography and multiple patterning techniques. As a critically important modeling tool for all patterning processes, PROLITH helps lithographers understand how pattern printing is affected by multiple lithography variables while significantly reducing the time required to identify workable solutions.
+Users Only site Technical Support
+Show Details
+ProDATA™
+Process Window Analysis
+ProDATA™ V2.1 process window analysis software provides a systematic, robust approach to understanding and optimizing lithography processes across the fab. This powerful software speeds critical decision making by enabling fast, easy and accurate analysis of experimental data, including critical dimension (CD) analysis, roughness, sidewall angle, top loss and pattern collapse.
+Show Details
+FabVision®
+Data Management for Wafer Fabrication
+The FabVision®2 software suite provides automated, high-availability hardware and data management for wafer and substrate manufacturers. FabVision2 continuously monitors and manages product quality, inspection, and metrology information to provide real-time wafer fabrication process excursion alerts and distribute data reports automatically to better manage worldwide operations. The integrated database and intuitive client software enable quick analysis and response to inquiries about product history and quality. FabVision2 advanced inspection and metrology packages assist with data analysis and data reprocessing to produce critical, real-time information needed by management, engineering, and operations to optimize the wafer fabrication process and maximize product yield. FabVision2XP offers an extended hardware server and storage option.
+Show Details
+Follow Us On
+Home
+Company
+Products & Technology
+Services
+Careers
+Investors
+Contact
+Copyright © 2024 KLA Corporation. All Rights Reserved.
+Privacy Policy
+Cookie Policy
+Legal
+
+
+
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. Cookie Policy
+Cookies Settings Reject All Accept All Cookies

@@ -1,0 +1,34 @@
+_x( 'Recipes', 'recipes'), 'singular_name' => _x( 'Recipe', 'recipes' ), 'add_new' => _x( 'Add New', 'recipes' ), 'add_new_item' => _x( 'Add New Recipe', 'recipes' ), 'edit_item' => _x( 'Edit Recipe', 'recipes' ), 'new_item' => _x( 'New Recipe', 'recipes' ), 'view_item' => _x( 'View Recipe', 'recipes' ), 'search_items' => _x( 'Search Recipes', 'recipes' ), 'not_found' => _x( 'No recipe found', 'recipes' ), 'not_found_in_trash' => _x( 'No recipe found in Trash', 'recipes' ), 'parent_item_colon' => _x( 'Parent recipe:', 'recipes' ), 'menu_name' => _x( 'Recipes', 'recipes' ), ); $args = array( 'labels' => $labels, 'hierarchical' => false, 'supports' => array('title','thumbnail'), 'public' => true, 'show_ui' => true, 'show_in_menu' => true, 'menu_position' => 11, 'show_in_nav_menus' => false, 'publicly_queryable' => true, 'exclude_from_search' => false, 'has_archive' => true, 'query_var' => true, 'can_export' => true, 'rewrite' => true, 'capability_type' => 'post' ); register_post_type( 'recipes', $args ); } ?> var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-27872572-2']); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); */ ?>
+OUR BUSINESSES
+Find your nearest store
+Contact Us Store Locator
+About Us
+Community & Charity
+Food and Drink
+News
+Membership
+
+Attend our Society OGM
+
+Register today!
+Next
+Previous
+Community and Charity
+Making a difference
+Find out about our work supporting local communities and charities.
+Read more
+Food and drink
+What's in store
+Find out about the locally sourced produce in your store and browse our range of recipes.
+Read more
+Store locator
+Find your nearest store
+Find your nearest store in the Eden and Lake Districts in Cumbria, and Weardale Valley in County Durham.
+Find us
+CONNECT WITH US
+Scotmid Co-operative
+© Scottish Midland Co-Operative Society Limited
+2006-2024 All Rights Reserved
+Semichem
+Scotmid Food
+Scotmid Co-operative Funeral Directors

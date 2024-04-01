@@ -1,0 +1,55 @@
+Deprecated: Methods with the same name as their class will not be constructors in a future version of PHP; SocializeAdmin has a deprecated constructor in /home/sites/15b/1/1cd2beaa52/public_html/wp-content/plugins/socialize/admin/socialize-admin.php on line 3
+
+Deprecated: Methods with the same name as their class will not be constructors in a future version of PHP; SocializeServices has a deprecated constructor in /home/sites/15b/1/1cd2beaa52/public_html/wp-content/plugins/socialize/frontend/socialize-services.php on line 3
+
+Deprecated: Methods with the same name as their class will not be constructors in a future version of PHP; SocializeFrontEnd has a deprecated constructor in /home/sites/15b/1/1cd2beaa52/public_html/wp-content/plugins/socialize/frontend/socialize-frontend.php on line 3
+
+Deprecated: Methods with the same name as their class will not be constructors in a future version of PHP; SocializeGraph has a deprecated constructor in /home/sites/15b/1/1cd2beaa52/public_html/wp-content/plugins/socialize/frontend/socialize-og.php on line 3
+
+Deprecated: Non-static method socializeWP::get_options() should not be called statically in /home/sites/15b/1/1cd2beaa52/public_html/wp-content/plugins/socialize/frontend/socialize-og.php on line 6
+
+Deprecated: Function create_function() is deprecated in /home/sites/15b/1/1cd2beaa52/public_html/wp-content/plugins/breadcrumb-navxt/breadcrumb-navxt.php on line 88
+
+Deprecated: Methods with the same name as their class will not be constructors in a future version of PHP; interface_custom_tag_widget has a deprecated constructor in /home/sites/15b/1/1cd2beaa52/public_html/wp-content/themes/interface-pro/inc/widgets/interface_widgets.php on line 169
+
+Deprecated: Methods with the same name as their class will not be constructors in a future version of PHP; interface_service_widget has a deprecated constructor in /home/sites/15b/1/1cd2beaa52/public_html/wp-content/themes/interface-pro/inc/widgets/interface_widgets.php on line 239
+
+Deprecated: Methods with the same name as their class will not be constructors in a future version of PHP; interface_promobox_widget has a deprecated constructor in /home/sites/15b/1/1cd2beaa52/public_html/wp-content/themes/interface-pro/inc/widgets/interface_widgets.php on line 363
+
+Deprecated: Methods with the same name as their class will not be constructors in a future version of PHP; interface_recent_work_widget has a deprecated constructor in /home/sites/15b/1/1cd2beaa52/public_html/wp-content/themes/interface-pro/inc/widgets/interface_widgets.php on line 433
+
+Deprecated: Methods with the same name as their class will not be constructors in a future version of PHP; interface_Widget_Testimonial has a deprecated constructor in /home/sites/15b/1/1cd2beaa52/public_html/wp-content/themes/interface-pro/inc/widgets/interface_widgets.php on line 581
+
+Deprecated: Methods with the same name as their class will not be constructors in a future version of PHP; interface_featured_image_widget has a deprecated constructor in /home/sites/15b/1/1cd2beaa52/public_html/wp-content/themes/interface-pro/inc/widgets/interface_widgets.php on line 792
+
+Deprecated: Methods with the same name as their class will not be constructors in a future version of PHP; interface_ourteam_widget has a deprecated constructor in /home/sites/15b/1/1cd2beaa52/public_html/wp-content/themes/interface-pro/inc/widgets/interface_widgets.php on line 925
+
+Deprecated: The called constructor method for WP_Widget class in interface_custom_tag_widget is deprecated since version 4.3.0! Use __construct() instead. in /home/sites/15b/1/1cd2beaa52/public_html/wp-includes/functions.php on line 6031
+
+Deprecated: The called constructor method for WP_Widget class in interface_service_widget is deprecated since version 4.3.0! Use __construct() instead. in /home/sites/15b/1/1cd2beaa52/public_html/wp-includes/functions.php on line 6031
+
+Deprecated: The called constructor method for WP_Widget class in interface_promobox_widget is deprecated since version 4.3.0! Use __construct() instead. in /home/sites/15b/1/1cd2beaa52/public_html/wp-includes/functions.php on line 6031
+
+Deprecated: The called constructor method for WP_Widget class in interface_recent_work_widget is deprecated since version 4.3.0! Use __construct() instead. in /home/sites/15b/1/1cd2beaa52/public_html/wp-includes/functions.php on line 6031
+
+Deprecated: The called constructor method for WP_Widget class in interface_Widget_Testimonial is deprecated since version 4.3.0! Use __construct() instead. in /home/sites/15b/1/1cd2beaa52/public_html/wp-includes/functions.php on line 6031
+
+Deprecated: The called constructor method for WP_Widget class in interface_featured_image_widget is deprecated since version 4.3.0! Use __construct() instead. in /home/sites/15b/1/1cd2beaa52/public_html/wp-includes/functions.php on line 6031
+
+Deprecated: The called constructor method for WP_Widget class in interface_ourteam_widget is deprecated since version 4.3.0! Use __construct() instead. in /home/sites/15b/1/1cd2beaa52/public_html/wp-includes/functions.php on line 6031
+
+Warning: Cannot modify header information - headers already sent by (output started at /home/sites/15b/1/1cd2beaa52/public_html/wp-content/plugins/socialize/admin/socialize-admin.php:3) in /usr/share/php/wp-stack-cache.php on line 1119
+
+Warning: Cannot modify header information - headers already sent by (output started at /home/sites/15b/1/1cd2beaa52/public_html/wp-content/plugins/socialize/admin/socialize-admin.php:3) in /usr/share/php/wp-stack-cache.php on line 1120
+
+Warning: Cannot modify header information - headers already sent by (output started at /home/sites/15b/1/1cd2beaa52/public_html/wp-content/plugins/socialize/admin/socialize-admin.php:3) in /usr/share/php/wp-stack-cache.php on line 1121
+
+Deprecated: Non-static method socialize_inline_class::init() should not be called statically in /home/sites/15b/1/1cd2beaa52/public_html/wp-includes/class-wp-hook.php on line 324
+
+Deprecated: Non-static method socializeWP::get_options() should not be called statically in /home/sites/15b/1/1cd2beaa52/public_html/wp-content/plugins/socialize/frontend/templates/templates.php on line 10
+
+Notice: Undefined index: socialize_button_display in /home/sites/15b/1/1cd2beaa52/public_html/wp-content/plugins/socialize/frontend/templates/templates.php on line 14
+
+Warning: Cannot modify header information - headers already sent by (output started at /home/sites/15b/1/1cd2beaa52/public_html/wp-content/plugins/socialize/admin/socialize-admin.php:3) in /home/sites/15b/1/1cd2beaa52/public_html/wp-includes/pluggable.php on line 1435
+
+Warning: Cannot modify header information - headers already sent by (output started at /home/sites/15b/1/1cd2beaa52/public_html/wp-content/plugins/socialize/admin/socialize-admin.php:3) in /home/sites/15b/1/1cd2beaa52/public_html/wp-includes/pluggable.php on line 1438

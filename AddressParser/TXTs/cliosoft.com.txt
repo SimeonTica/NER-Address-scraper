@@ -1,0 +1,87 @@
+Enable accessibility
+___
+Choose a country or area to see content specific to your location Romania
+Contact Us
+PRODUCTS AND SERVICES
+LEARN
+BUY
+SUPPORT
+EDA Software
+Design Data and IP Management
+Industry-leading design data, intellectual property (IP), and engineering lifecycle management solutions.
+Try Keysight Design Data Management (SOS)
+Try Keysight IP Management (HUB)
+Streamline Design Data, IP, and Engineering Lifecycle Management
+An explosion in semiconductor design data and silicon intellectual property (IP) reuse is prompting seminconductor companies to optimize engineering lifecycle management . Analog, mixed-signal, radio frequency (RF), and digital designers must work on unified platforms for better scalability, security, and reliability.
+Keysight's Design Data and IP Management platforms deftly maneuver the complex requirements of today's semiconductor design flows. Keysight Design Data Management (SOS) provides a sophisticated multi-site development environment that enables global teams to efficiently collaborate and manage design data from concept to tapeout. Keysight IP Management (HUB) empowers enterprises to catalog, reuse, publish, and track all internal and third-party silicon IPs securely throughout the engineering lifecycle.
+Demo Keysight SOS
+Demo Keysight HUB
+Cliosoft Is Now Part of Keysight Technologies
+With rich experience and expertise in managing semiconductor design data, including functional silicon IP blocks used in integrated circuits (ICs), Cliosoft, now part of Keysight Technologies, offers industry-leading revision control, and data and IP management solutions for electronic design automation (EDA) platforms.
+Alongside the Cliosoft portfolio, Keysight enables customers to model, prototype, and assess multi-domain networks and applications through software simulation, minimizing risks during development and reducing time to market.
+Read more about Cliosoft becoming part of Keysight.
+Keysight Design Data Management (SOS)
+Scale efficient and collaborative design data management across sites and projects.
+Scalability: Optimize network storage and flexible design data management that scale to growing analog, mixed-signal, RF, and digital design needs.
+Team productivity: Boost productivity on a multi-site design at speed and scale with an architecture specially built for design team collaboration.
+Visual design reporting: Integrate Keysight Visual Design Diff (VDD) with Keysight Design Data Management (SOS) to generate instant reports, enhance design traceability, streamline collaboration between engineers, and visually compare differences between two versions of a design. Learn more about Keysight VDD.
+  Try SOS for Free
+Learn More
+Play Video
+Play Video
+Keysight IP Management (HUB)
+Manage, trace, and reuse silicon IP across enterprise on this ISO 26262-certified IP management platform.
+IP reuse: Locate, reuse, catalog, and publish IP and designs across multiple sites and teams.
+Dependency tracking: Track IP and design dependencies automatically by either bill of materials or consumers.
+Management insight: Get real-time oversight and insights with efficient workflows and reporting.
+  Try HUB for Free
+Learn More
+Connect Keysight Design Data Management (SOS) to Existing Workflows
+Easily integrate Keysight Design Data Management (SOS) with the software your design team is already using. With native integration and an intuitive interface, Keysight SOS enables design teams to streamline schematic and layout management, enhance design traceability, and boost design productivity — without modifying their existing design methodology.
+Supported integrations include:
+Cadence Virtuoso Studio
+Empyrean Aether
+MathWorks MATLAB
+Siemens EDA (Pyxis)
+Siemens EDA (Tanner)
+PathWave Advanced Design System (ADS)
+Silvaco Expert
+Silvaco Gateway
+Synopsys Custom Compiler
+Synopsys OptoCompiler
+Synopsys Laker
+Visual Design Diff (VDD)
+Want to get started?
+Try SOS for Free
+Request an SOS Demo
+Try HUB for Free
+Request a HUB Demo
+EXPLORE
+Products + Services
+Solutions
+Industries
+Events
+Learn
+Used Equipment
+INSIGHTS
+Discover Insights
+Success Stories
+Resources
+Blog
+Community
+PARTNERS
+SUPPORT
+Product Support
+Manage Software Licenses
+Product Order Status
+Parts
+ABOUT KEYSIGHT
+Newsroom
+Investor Relations
+Quality and Security
+Corporate Social Responsibility
+Diversity, Equity, and Inclusion
+Modern Slavery Act Transparency Statement
+Careers
+© Keysight Technologies 2000–2024 Privacy Sitemap Terms Trademark Acknowledgements Feedback Accessibility
+United States

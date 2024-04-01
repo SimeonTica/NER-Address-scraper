@@ -1,0 +1,139 @@
+XR Streaming Platform
+Features
+Integrations
+Resources
+Pricing
+Jobs
+Blog
+Sign in
+Get Portal
+Enterprise XR CMS with
+XR cloud streaming for training, visualization and digital twins
+Let employees and customers access your VR/3D app portfolio with one click.
+Get Portal
+Schedule a demo
+Cloud-first XR CMS built for large enterprises.
+Content Sharing
+XR CMS for large-scale Metaverse roll-out of Unity and Unreal applications
+Learn more
+Multi-User support
+Roll-out your collaborative Multi-User VR apps built with Unity or Unreal
+Learn more
+LMS Integration
+VR Training LMS Integration via xAPI or SCORM
+Learn more
+Single Sign-On (SSO)
+In-VR Single Sign-On (SSO) to connect your XR apps to your Active Directory
+Learn more
+CloudXR streaming
+VR cloud streaming using NVIDIA CloudXR
+Learn more
+Analytics Dashboard
+VR Analytics Dashboard for a better ROI of your VR training roll-out
+Learn more
+Browse all features
+How to scale XR to thousands of users?
+We agree that your XR projects are incredibly powerful – but how can you reach your global workforce already today?
+Cross-platform XR CMS
+All your apps available cross-platform. Portal embraces your whole app portfolio and offers a clean, unified user experience on every device. 
+Get Portal
+Learn more
+Easy access for everyone
+Simple one-time device pairing
+Users can easily pair their VR HMD by entering a simple 6-digit code.
+One-click launching
+Easy-to-use interface to launch the latest version of the app
+Seamless web-based experience
+Users can browse and launch apps via any web browser
+read more
+Share your apps on your branded platform
+Secure sharing across organizational borders
+Share your applications with your customers or suppliers in a secure and controllable way.
+read more
+Offer a branded experience to your audience
+Change colors, texts and logo with a few clicks in order to adapt the visual appearance to the corporate identity or your company or your customer.
+read more
+Get Portal
+XR Cloud Streaming ready
+Stream PC VR to standalone VR
+Use your existing PC VR applications built with Unity or Unreal with new standalone VR headsets.
+Stream PC 3D apps to browser
+For users who cannot chose VR, offer high quality interactive 3D experiences with keyboard and mouse input streamed from the cloud to any web browser.
+read more
+read more
+Get Portal
+XR business process integration
+Integrate with your LMS
+One-click integration with any LMS system. Make sure that people can follow LMS assignments and write back results to your LMS
+Learn more
+Deep-linking into XR from anywhere
+Place links to your XR apps in Portal from any system to engage your users where they are today.
+Learn more
+Share links to collaborative XR sessions
+Portal solves authentication and session link sharing for your custom, multi-user capable VR, 3D and XR apps
+Learn more
+Get Portal
+Your secure gateway
+Configure Single Sign-On
+Connect Portal to your corporate SSO provider for seamless adoption
+Learn more
+Identity and Access Management
+For each application, individual access permissions can be defined. User access can be time limited and can be revoked or re-activated any time. 
+Learn more
+Access Control Plugin for Unity / Unreal
+In order to secure apps from uncontrolled distribution, Innoactive offers Plugins for Unity and Unreal to ensures that apps can only be used with valid user credentials, even after download to the client device.
+Learn more
+Works with leading technologies
+Innoactive customers enjoy interoperability and compatibility with world's leading technology providers.
+Applications
+Applications
+Hardware
+Cloud Streaming
+XR Analytics
+3D Engines
+Applications
+Hardware
+MDM
+Multi-User
+3D Engines
+Applications
+Hardware
+MDM
+Applications
+Authoring
+Cloud Infrastructure
+MDM
+Applications
+Authoring
+Cloud Infrastructure
+MDM
+Browse all integrations
+Michael Spiess, Venture Lead for Extended Reality
+„This will help us to offer VR to our 200 million business users.“
+Watch interview
+Trusted by leading companies
+Innoactive technology is used by large enterprises to deploy VR training to employees, customers and suppliers. 
+Join the immersive learning revolution 
+Jun 25, 2020
+2 min
+Innoactive and Linde team up to expand the use of VR training in the Oil & Gas industry
+Munich, 26.06.2020 – Linde uses the Innoactive Portal to launch the Linde Virtual Academy, a continuously growing library of VR training...
+Customers (6)
+6 posts
+Partner (2)
+Business impact (8)
+8 posts
+Technology (4)
+4 posts
+Product (4)
+4 posts
+Events (2)
+2 posts
+Company (7)
+7 posts
+Read all stories
+Sasha Lekach
+"It's all digital and can be accessed at the push of a button. Travel time and costs don't really exist."
+Read article
+Innoactive GmbH | Site notice (Impressum) | Privacy notice (Datenschutzerklärung)
+Contact us via E-Mail

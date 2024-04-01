@@ -1,0 +1,35 @@
+About Specialist Services Java VM ™ Graal VM ™ TechTalk Career
+Contact
+WIN THE SOFTWARE TECHNOLOGY RACE WITH MICRODOC
+Services
+Graal VM
+MicroDoc is a source code licensee of Oracle’s GraalVM and has the unique ability to bring this advanced runtime technology to the embedded space.
+Who we are
+MicroDoc is a technology oriented software development business and a member of the Data Respons Group.
+We have built reputation and trust in our long running customer engagements and helped numerous clients to reach their IT goals by helping them find the right technology that is cost effective and future proof.
+When you plan to extend your IT systems into the mobile space or connect to the Internet of Things, you’ll need a partner, who not only understands your business needs but is also capable of managing the complex technology that is needed in today’s heterogeneous environments. MicroDoc can be your ideal partner no matter what industry you are in. Working with us means: friendly and competent staff, effective planning, up to date development methodologies, quality oriented implementations and long term maintainability.
+Years of Experience
+Experts
+Projects
+What we do
+Java™ and GraalVM™ Experts
+MicroDoc is member of the JCP Executive Committee and member of the GraalVM Project Advisory Board. With our unique knowledge of Java runtimes in embedded applications, we can create the optimal solution for your product.
+End to End Software Solutions
+Based on our 30+ years’ experience in the IT industry, we can offer project services that cover planning, requirement analysis, architecture, implementation and test, production support and maintenance for complex software projects. Whether you want individual, sporadic know how transfer or higher volume implementation services, MicroDoc will find the right experts for your project.
+Quality Assurance
+MicroDoc takes a rigorous approach and examines the codebase itself under strict engineering assessment criteria. Even though tool-based analysis is usually fast and precise, skilled engineers are needed to interpret the tooling results and suggest practical and non-invasive changes to the codebase.
+Customization & Maintenance
+MicroDoc provides enterprise level product customization services including long term maintenance. Our engineers have worked on many OSS projects and we have developed an approach to build and maintain enterprise quality open source products for our customers.
+MicroDoc Computersysteme GmbH
+Address:
+Elektrastraße 6a
+81925 Munich
+Germany
+Phone: +49-89-551969-0
+Email: microdoc@microdoc.com
+Company
+Career
+Impressum
+Privacy/Cookie Policy
+ESG
+Part of the Data Respons group

@@ -1,0 +1,186 @@
+Skip to content
+Software
+Services
+Industries
+
+About us
+References
+Career
+Media Library
+EN
+Investment and Treasury Management Solutions designed & made by COMPIRICUS
+We are Investment and Treasury Management
+COMPIRICUS, a company of the X1F Group, is one of the leading international software and consulting companies with process and system solutions for investment, treasury and risk management. For our customers, we create custom-fit solutions that make the day-to-day work for you as an investment, treasury and risk manager not only extremely efficient, but also comfortable at the same time.
+
+
+
+
+Career at COMPIRICUS
+Our Partners
+Our Customers
+(excerpt)
+
+
+
+
+COMPIRICUS Service Offer – Basic
+
+Investment Management with SAP FAM
+When it comes to the management of capital investments, we are your partner of choice: Trust in our more than 30 years of know-how
+More
+
+Loans Management with SAP CML/CMS
+With us, you are in the best hands when it comes to loan and collateral management with SAP CML or SAP CMS.
+More
+
+Treasury Management with SAP TRM
+Since the "1st line of code" we know the SAP Treasury and Risk Management module. Trust in our outstanding competence.
+More
+
+Statutory Reporting for Insurance Companies
+Statutory reporting under SAP FS-SR is one of our major strengths. In addition, we also offer solutions for Italy and the USA.
+More
+
+Custom Software Development
+
+When you need more than standard: We offer multiple services in the field of SAP software development.
+More
+
+S/4HANA Transformation
+
+How to successfully manage your treasury transformation to SAP S/4HANA - with consideration for your resources.
+More
+COMPIRICUS Service Offer – Focus
+
+Automation of your SAP Processes
+We support you in automating your SAP financial processes and at the same time offer the right software solution.
+More
+
+Reference Interest Rate Reform
+
+What you need to consider when implementing the Reference Interest Rate Reform in your SAP system landscape. Solution for EhP7 now available.
+More
+
+Cash Management & Payments
+
+How to manage your payments and financial risk with real-time integrated solutions from SAP.
+More
+
+Hedge Accounting
+
+Design and development of a high-end system solution for your risk management under SAP S/4HANA Treasury.
+More
+
+Liquidity Planning
+
+Liquidity management based on SAP: How to comprehensively ensure your company's solvency even in turbulent times.
+More
+
+EU GDPR Compliance for SAP CML
+We implement the EU GDPR requirements in your SAP CML system landscape for you. Professionally. Seamlessly. Legally compliant.
+More
+
+FinStabDEV for SAP CML/CMS
+
+High time to make data, processes and SAP CML/CMS fit for the new requirements. We support you with software and service.
+More
+
+Migration Collateral Management CML → CMS
+We support you in migrating your collateral from SAP CML to SAP CMS. Trust in our more than 25 years of module know-how.
+More
+
+Sustainability in Capital Investments
+We provide you with professional support in implementing ESG reporting requirements.
+More
+Liquidity Management in turbulent times
+In times of crisis, the importance of reliable tools becomes apparent, which companies can use to ensure solvency or alignment with a defined cash flow target despite volatile planning parameters. Our all-in-one liquidity management software, CILA can. State-of-the-art forecasting techniques guarantee seamless data integration. No more tedious collecting from various sources. Get to know CILA and convince yourself of the advantages of this solution.
+Case Study: The new way of Process Controlling in SAP
+Find out how an international corporation with over 100 company codes was able to complete its annual financial statements with 35% time savings and higher quality thanks to SAP process automation with COMPIRICUS Process Cockpit.
+COMPIRICUS Software Collection
+Custom-fit software products that make everyday work for you as an investment, treasury, and risk manager not only
+extremely efficient but also comfortable at the same time.
+
+COMPIRICUS
+Process Cockpit
+
+Modern SAP UI5 app that runs complex financial processes automatically: More quality, more transparency, more speed.
+More
+
+COMPIRICUS
+Intelligent Liquidity Analytics
+
+All-in-one Cash Forecasting & Liquidity Planning Solution.
+
+More
+
+COMPIRICUS
+Alternative Investment Cockpit
+
+Software solution for alternative investment management under SAP.
+More
+
+COMPIRICUS
+Funds Order Management
+
+SAP TRM add-on for insurance to automate trading and management of unit linked portfolios (FLV/FRV).
+More
+
+COMPIRICUS
+Financial Adapter®
+
+Universal interface tool for the integration of internal and external financial data into your SAP Treasury.
+
+More
+
+COMPIRICUS
+Investment Forecaster
+
+Automated calculation of resilient investment scenarios for large portfolios and complex financial instruments.
+More
+
+COMPIRICUS
+Interface package
+
+Connect internal and external systems easily with SAP. Already more than 200 SAP interfaces have been realized.
+More
+
+COMPIRICUS
+Statutory Reporting
+
+Solutions for regulatory reporting with SAP FS-SR.
+
+More
+
+COMPIRICUS
+Treasury Data Hub
+
+App for automatic SAP treasury data distribution to other SAP systems in your company.
+More
+
+COMPIRICUS
+FinStabDEV
+
+FinStabDEV Readyness Check and reporting solution: We help to make data, processes and SAP CML/CMS fit.
+More
+
+COMPIRICUS
+Benchmarkreform Add-on for SAP ECC 6.0 EhP7
+Supported are all fundamentally new reference interest rates such as SOFR, €STR, SONIA, TONA, SARON.
+More
+
+COMPIRICUS
+Loan Valuation Tool for SAP CML
+
+Guarantees users the highest precision in the calculation of present values and clean prices.
+
+More
+What our Team says about COMPIRICUS
+“When I came to Germany as a Spaniard to COMPIRICUS, I was warmly welcomed and quickly integrated into the team, so that my initial uncertainty in the foreign environment quickly gave way. The exciting tasks allowed me to further develop my expertise in the areas of project and product development. I also appreciate the high-tech work equipment, which makes my work easier.”
+Pablo, Senior Consultant, since 2015 at COMPIRICUS
+Legal Disclosure
+Privacy
+Terms of Use
+Data protection information for webinars via GoTo Webinar
+Social Media Privacy Policy
+Cookie Settings
+Contact

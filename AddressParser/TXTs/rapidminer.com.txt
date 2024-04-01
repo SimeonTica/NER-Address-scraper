@@ -1,0 +1,125 @@
+Altair® RapidMiner®
+Data Analytics and AI Platform
+Regardless of where your organization is on its data journey, Altair RapidMiner can help overcome the most challenging obstacles in your way. We offer a path to modernization for established data analytics teams as well as a path to automation for teams just getting started. We do this without requiring your organization to radically change your people, processes, computing environment, or existing data landscape, helping you achieve your data goals without changing who you are or what you have.
+Whether your organization requires an end-to-end data science platform or point solutions, Altair RapidMiner enables you to deliver the right tool at the right time to your diverse teams.
+
+Browse Products
+Browse Product Trials
+Use Altair® AI Studio™ for Generative AI Without the Complexity
+Try Now
+Unified, End-to-End Data Science Platform
+To better understand your processes, customers, and products, diverse teams must collaboratively generate and share data-driven insights across the organization. Altair’s enterprise-ready data science platform is designed for many different skill sets, from data scientists and engineers to business analysts and executives, to do just that in one unified environment.
+Build data and machine learning pipelines with code-free to code-friendly experiences. Increase trust with interactive decision trees, model simulators, and other highly explainable features. Scale as needed from desktops to on-premises servers to secure, multi-tenant cloud implementations. Easily deploy models and share the insights where they will have the most impact.
+Targeted, Powerful Data and Analytics Capabilities for Your Team
+EXTRACT AND TRANSFORM YOUR DATA
+To solve complex problems, you need to access data from many sources, including difficult, semi-structured data like PDFs, spreadsheets, and text files. This raw data is rarely clean or fully accurate, so your team needs to transform it for use in machine learning applications.
+Whether data is structured or unstructured, on premises or in the cloud, Altair’s solutions can automate preparation tasks and transform your data into clean, accurate datasets in seconds – rather than hours or days. Replace mundane, repetitive, and error-prone tasks with value-add activities for greater impact on the business.
+Learn More
+BUILD DATA AND MACHINE LEARNING WORKFLOWS
+Finding predictive signals in your data requires experimentation and iteration. You need to quickly identify the best model for your business case and data, then easily refine the model and explain it to stakeholders.
+With Altair RapidMiner, you can streamline model creation – whether you’re new to data science or a seasoned pro – through automated, visual, and code-based approaches. Altair’s machine learning solutions allow you to easily train, evaluate, explain, and deploy predictive and prescriptive models using the latest techniques.
+Learn More
+PROCESS AND DISPLAY YOUR REAL-TIME DATA
+Delays in decision-making are costly in time-critical businesses. Waiting for end-of-day reports means you’re likely to miss profitable opportunities or fail to respond to threats to smooth operations, regulatory compliance, or profitability until it’s too late.
+Use Altair RapidMiner to spot anomalies, trends, and outliers in seconds with real-time data, and share results across the organization using rich, powerful dashboards. Altair’s stream processing and data visualization solutions are built for people who need to make fast, fully informed decisions based on massive amounts of fast-changing telemetry, sensor, and trading data.
+Learn More
+“With Altair, we can leverage our extensive knowledge of the SAS language to create models from scratch, combine SAS language-based tools with machine learning models built in Python and R, and work with our clients’ existing processes.”
+Paul Matthews, Partner, Vestigo | Read the Full Customer Story
+MODERNIZE YOUR SAS LANGUAGE ENVIRONMENT
+Organizations that have invested many years developing IP using SAS language have options, whether you want to transition to open-source languages, choose the infrastructure that works best for your organization, or save on software cost.
+Altair has the solutions to maintain and run your existing SAS language programs without the need for any third-party products. Write data-centric applications using the best programming languages for the job, mixing syntax from different languages inside a single program. Choose cloud, on-premises, or hybrid infrastructure.
+Learn More
+CREATE SMART PRODUCT ECOSYSTEMS
+The Internet of Things (IoT) has empowered organizations to become truly more data-driven and automate business processes that depend on data. IoT devices combined with data science tools help analytics teams and stakeholders improve efficiency, deliver data analytics insights, and improve decision-making processes.
+Learn More
+Featured Products of the Altair RapidMiner Platform
+ALTAIR® AI CLOUD™
+Supports cloud-based development and deployment of sophisticated AI and machine learning models.
+Learn More
+ALTAIR® AI HUB™
+Supports the orchestration, management, and deployment of AI and machine learning models in the cloud and other environments.
+Learn More
+ALTAIR® AI STUDIO™
+Data science design software anyone can use to design and prototype highly explainable AI and machine learning models.
+Learn More
+ALTAIR® IOT STUDIO™
+Build scalable, secure, customer web and mobile applications that connect your smart products.
+Learn More
+View All Products
+Where Simulation, HPC, and AI Converge
+As the pace of innovation accelerates, Altair is helping companies use digital twins, intelligent models, and the convergence of simulation, HPC, and artificial intelligence (AI) to predict and optimize system outcomes. Learn how to access all Altair solutions with Altair One™ and Altair Units.
+Altair One™
+Cloud Innovation Gateway
+Altair® HyperWorks®
+Design and Simulation Platform
+Altair® HPCWorks™
+HPC and Cloud Platform
+Altair® RapidMiner®
+Data Analytics and AI Platform
+Experience Altair's data analytics software today.
+Try Now
+Featured Resources
+Enabling Data Science at Avery Dennison
+In this presentation, Karan Bedi, Senior Digital Innovation Lead at Avery Dennison, takes us through the company's Data Science journey. He discusses how Avery Dennison works with data today and what their goal is with regards to democratizing data science. He introduces RapidMiner, an end-to-end data science platform now part of Altair, and explain how they are using it.
+
+This presentation was part of the 2nd Altair Northern UK Seminar and was filmed live in Newcastle, UK in December 2022.
+
+: Karan Bedi, Senior Digital Innovation Lead, Avery Dennison
+: 18 minutes
+Conference Presentations
+A Human's Guide to Generative AI
+In this eGuide, we’ll provide a levelheaded, easy-to-understand overview of generative AI technology – what it is, where it came from, how it works, and what it can (and can’t) do. We’ll go over the considerations and responsibilities of any enterprise implementing generative AI, including how to access it, the risks and costs involved, and critically, the tasks at which generative AI excels. We’ll compare generative AI’s strongest use cases to problems that are still better suited to other kinds of machine learning algorithms and outline why it’s important to pick the right tool for the job. Finally, we’ll break down niche use cases industry by industry, highlighting opportunities in each field.
+eGuide
+Break Down Data Science Language Barriers
+For developers of analytics and ML tools, free-to-use resources like Python, R, and SQL have redefined the landscape. And this isn't simply a matter of cost. These open-source languages offer greater productivity, flexibility, and their own specific sets of capabilities and benefits. But there's a catch. While it may no longer be the preferred choice for coders who have grown up with open source, the long-established, SAS language remains a staple of the data science ecosystem. As a result, many enterprises still rely on a host of business-critical applications that were built using SAS language.
+eGuide
+Harnessing the Power of Big Data, AI and Simulation to Accelerate Product Innovation
+In a world where everything is becoming more and more connected, Mabe, a leader in home appliances, is leveraging the convergence of big data, analytics and simulation to accelerate innovation. Martin Ortega, Senior Design Engineer at Mabe, explains how they are using Altair's AI, data analytics and simulation solutions to uncover insights, create new business opportunities, and advance product development.
+Testimonial
+View All Resources
+GET IN TOUCH
+How can we help?
+We'd love to hear from you. Here's how you can reach us.
+Contact Us
+Stay Connected
+Ready to move forward? You've come to the right place. Sign up and start exploring the latest discoveries from Altair.
+Altair and our resellers need your email address to contact you about our products and services. You may unsubscribe from these communications at any time. For information on how to unsubscribe, as well as our privacy practices and commitment to protecting your privacy, check out our Privacy Policy.
+Facebook Instagram LinkedIn YouTube
+Resources
+Customer Stories
+Webinars
+Featured Articles
+Downloads
+Documentation
+Community & Support
+Learning
+Startup
+Academic
+View All Resources
+Products
+Data Analytics & AI
+Electromagnetics
+Electronic System Design
+Fluids & Thermal
+HPC & Cloud
+Industrial Design Applications
+Internet of Things
+Manufacturability
+Multiphysics
+Structural Analysis
+Structural Engineering - AEC
+Systems Modeling
+View Our Products
+About Us
+About Altair
+Locations
+Careers
+Sustainability
+Partners
+Investors
+Support
+Newsroom
+Email Newsletter
+Contact Us
+Privacy | Website Terms of Use | Cookie Consent
+© 2024 Altair Engineering Inc. All Rights Reserved. We are currently listed on Nasdaq as ALTR.

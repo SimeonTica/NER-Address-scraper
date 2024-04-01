@@ -1,0 +1,71 @@
+Lustre
+Welcome
+Get Started
+Download
+Documentation
+Development
+News
+About
+Welcome to the official home of the Lustre® filesystem
+The Lustre® file system is an open-source, parallel file system that supports many requirements of leadership class HPC simulation environments. Whether you’re a member of our diverse development community or considering the Lustre file system as a parallel file system solution, these pages offer a wealth of resources and support to meet your needs.
+Events
+Lustre User Group (LUG) 2023
+What’s Here?
+Here’s how to get started with the Lustre file system, with links to the documentation, and information on how to download the Lustre software.
+The Releases Roadmap outlines the community’s schedule of releases and main features.
+The Development page describes how you can participate in the advancement of the Lustre file system by joining the development activities currently taking place, including code development, testing, filing bugs, and benchmarking.
+Latest News about Lustre developments, summarized in the top box on the right.
+Lustre community mailing lists.
+Learn more about Lustre.
+Wiki
+The Lustre Wiki contains pages with information addressing a variety of Lustre topics:
+Administration :: Architecture :: Benchmarking :: Development :: Events ::
+FAQ :: Features :: Howto ::  Internals :: LNET :: Monitoring ::
+Organizations :: Releases :: Testing :: Training :: Tools :: ZFS
+Releases
+Current Maintenance Release
+Lustre 2.15.4 released December 22, 2023
+Current Major Release
+Lustre 2.15.0 released June 16, 2022
+Major Release Under Development
+Lustre 2.16.0
+
+   Latest News
+Lustre 2.15.4 released
+Lustre 2.15.3 released
+Lustre 2.15.2 released
+Lustre 2.15.1 released
+Lustre Links
+Download Lustre
+Releases Roadmap
+Release Information
+Get started with Lustre
+Mailing Lists
+Read Documentation
+Submit an Issue
+Lustre Wiki
+OpenSFS
+EOFS
+© 2024 OpenSFS and EOFS.
+All rights reserved.
+About Lustre
+About Lustre
+Lustre Roadmap
+Release Information
+Terms & Conditions
+Privacy Policy
+Run Lustre
+Download Lustre
+Getting Started
+Documentation
+Lustre Wiki
+Get Involved
+Lustre Development
+Lustre Development Wiki
+Join a Mailing List
+Submit an Issue
+Working Groups
+News
+Latest News
+
+The Lustre® trademark is jointly owned by OpenSFS and EOFS.

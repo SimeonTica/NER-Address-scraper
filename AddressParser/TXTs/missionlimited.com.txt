@@ -1,0 +1,16 @@
+Publishing | Record Label | Management | Music Production | Song Writing | Video Production | Show Production
+Mission Entertainment Group is the culmination of four companies Mission Artist Management, Mission Publishing and Mission Marketing and Distribution.
+Our primary goal is the delivery of outstanding music from the writing / recording process, marketing and label management, to actually putting the artists music in the hands and ears of their fans.
+Read more »
+Mission Limited offer the following services; songwriting, production and mastering. These are offered as part of the four companies mentioned to the left.
+
+
+Read more »
+NEWS Nov 11, 2013 - Dirty Sneekers UK "The Sound" has reached NO. 9 in the Pop Chart and NO.18 in the Club Chart!
+Follow us on Twitter »
+Join our Facebook group »
+Mission Entertainment Group Ltd, Wickham House, 2 Upper Teddington Road, Kingston-Upon-Thames, Surrey. KT1 4DY
+Tel: +44 (0)208 977 0632, Fax: +44(0)208 181 6881, Email: info@missionlimited.com
+© 2012 Mission Entertainment,
+Part of Papa Entertainment Plc
+var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-8738643-3']); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();

@@ -1,0 +1,26 @@
+is now part of
+Turck, a global leader in industrial automation, has acquired the assets of U Grok It, Inc. including the Smartphone RFID product line. Turck initially licensed the U Grok It technology in 2016 to launch its PD-Ident handheld, and saw additional value in ownership of the technology and product line.
+“The Smartphone RFID technology expands Turck’s presence in RFID, by leveraging the power and benefits of RFID with an efficient and affordable reader,” said Chris Vitale, Director of Fieldbus Technology at Turck. “This is a great enhancement to our RFID offering, and gives us a base for further handheld expansion.”
+Turck will continue to support the Smartphone RFID platform, including flexible development tools that allow companies and developers to create tailored RFID solutions. The fully functioning handheld reader/writer is lightweight, easy to use and works with iOS, Android and Windows smart devices.
+Read the press release
+Revolutionizing RFID
+identify • locate • track • inventory
+U Grok It is the Smartphone RFID platform that enables organizations of all sizes the ability to leverage the power and benefits of RFID with an efficient and affordable reader and flexible development tools.
+Innovative solutions can be built to Identify, Locate, Track and Inventory tagged assets using the U Grok It Software Development Kits.
+The U Grok It fully functioning handheld reader/writer is lightweight, easy to use and works with iOS, Android and Windows smart devices.
+Based on standard RAIN (UHF Gen 2) RFID, with a 6-25' (2-7m) read range and the read speed and accuracy you require. U Grok It allows you to:
+Uniquely identify and track items
+Read and write all RAIN (UHF Gen 2) RFID tags
+Track attributes for tagged items
+Quickly locate specific items
+Efficiently inventory groups of items
+Expand RFID deployments and build new mobile RFID apps
+Full development kit — open platform
+Hey developers: use our robust, open U Grok It platform to add RFID features to your mobile apps or expand your existing RFID solutions.
+Discover Grok and Grok Demo
+See how easy RFID can be with the Discover Grok app for iOS and the Grok Demo app for Android.
+Note: you will need a Grokker for full app functionality.
+Copyright © 2012-2017 U Grok It, Inc.
+connect@UGrokIt.com
+U Grok It and the U Grok It logo are registered trademarks of U Grok It, Inc.
+All other trademarks and copyrights are the property of their respective owners

@@ -1,0 +1,44 @@
+Stay Tuned - New blog post now live
+
+Multimodal AI for the world's scale.
+Fast, secure, and affordable technology for visual, audio, and text applications.
+Join Waitlist
+Introducing our new foundational model
+Aana (15B)
+Aana integrates a Mixture of Experts (MoE) from various vision, audio, and NLP domains to understand video content with remarkable nuance and capability. Aana means "elephant" in the Malayalam language.
+
+
+Open intelligence
+We’re on a journey to advance and democratize artificial intelligence through open source and open science.
+Recent contributions
+Aanaphi-2
+Our fast and capable 3B small language model, ranked #1 in open LLM leaderboard as of Feb 12, 2024. Download on Hugging Face.
+Half-Quadratic Quantization (HQQ)
+Faster and more accurate quantization techniques requiring no calibration data. Read more on our blog and find our quantized models on Hugging Face.
+Coming soon
+Aanavision
+Highly capable and efficient multimodal model.
+HQQ+
+Even faster and accurate quantization technique.
+Summarization
+Automatically analyze video content with remarkable nuance and capability.
+Search
+Converse with a system that understands your intent.
+Recommendations
+Extract similar and related content from first-party data, in a non-intrusive and fully private manner.
+Data analytics
+Ask, not code. Express yourself in natural language to answer complex questions.
+30+ companies already trust us globally.
+About Mobius Labs
+We are experts in multimodal artificial intelligence, computer vision, and audio recognition who build efficient models and systems for processing large data streams.
+
+Our team features 3 Best PhD Awards in machine learning from European institutions, with 100+ publications and 10,000+ citations.
+
+Based in Berlin, Germany.
+Try Aana
+Wondering what our AI can do for you?
+Join our waitlist to find out!
+X
+Blog
+Imprint
+Mobius Labs GmbH is receiving additional funding by the ProFIT program of the Investment Bank of Berlin. The goal of the ProFIT project “Superhuman Vision 2.0 for every application- no code, customizable, on- premise  AI solutions ” is to revolutionize the work with technical images. (f.e.) This project is co-financed by the European Fund for Regional Development (EFRE). In the ProFIT project, we are exploring models that can recognize various objects and keywords in images and can also detect and segment these objects into specific pixel locations. Furthermore, we are investigating the application of ML algorithms on edge devices, including satellites, mobile phones, and tablets. Additionally, we will explore the combination of multiple modalities, such as audio embedded in videos and the language extracted from that audio.

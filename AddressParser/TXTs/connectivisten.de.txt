@@ -1,0 +1,83 @@
+Projekte
+Profil
+Expertise
+Kunden
+News
+Kontaktiere uns
+Software Engineers
+für Enterprise Apps
+Euer Team für App, Cloud und KI Projekte.
+Let's connect! 🚀
+Mehr erfahren
+Aktuelle Projekte
+Jedes Projekt ein Software-Unikat – schau dir an woran wir gerade arbeiten:
+Nachhaltige Energiespeicher: Entwicklung eines Kundenportals für E3/DC Energy Storage
+Als externer Entwicklungspartner unterstützen wir das führende Unternehmen für Lithium-Ionen-Speicher bei der Programmierung eines digitalen Kundenportals auf Basis von React. Dieses ermöglicht allen Kunden & Partnern die einfache digitale Steuerung & Überwachung der komplexen installierten Energiespeichersysteme.
+Willkommen in unserer App Agentur 👋🏻
+Wir bauen innovative und nutzerzentrierte Apps um eure internen Prozesse zu optimieren, Kunden zu begeistern und digitale Produkte zu realisieren. Dafür übernehmen wir Eure App, Cloud & KI Projekte als externe IT-Unit auf Projektbasis oder als langfristiger Outsourcing Partner zusammen mit eurer IT-Abteilung. Wir sind Informatiker mit Leidenschaft für neueste Technologien wie künstliche Intelligenz und machen diese in euren Apps nutzbar. Immer agil und verbindend, um komplexe Prozesse zu meistern und Wettbewerbsvorteile für euch zu schaffen. 
+
+Neben unserem Hauptsitz in Frankfurt am Main liegt unser Entwicklungsbüro in Darmstadt. Hier haben unser Gründer Max und Entwicklungsleiter Felix bereits im Informatik Studium den Grundstein der CONNECTIVISTEN gelegt. Mit dieser Verbindung zu den Top-Universitäten TU und Hochschule Darmstadt sind wir immer up-to-date, was neueste IT Trends und Forschung angeht.
+Was wir für euch tun
+App Entwicklung & Consulting
+Full-Service Anwendungsentwicklung oder gezielte Unterstützung für eure IT Abteilung – ihr entscheidet.
+Unser Fokus liegt auf der Entwicklung von plattformunabhängigen Webanwendungen, nutzerfreundlichen mobilen Apps, leistungsstarken Cloud Systemen und dazu passenden KI Integrationen. Die dafür passenden Technologien werden von uns projektbasiert ausgewählt und aufeinander abgestimmt. Zu den wesentlichen Bausteinen gehören dabei die Cross-Plattform Frameworks React Native und Flutter, Webtechnologien wie React & Angular, Backend Systeme mit Node.js & Symfony und Python im Bereich Künstliche Intelligenz.
+
+Als Informatiker und erfahrene Softwareentwickler stehen wir euch zudem als Consulting Partner für Digitalisierungsprojekte zur Verfügung. In die gemeinsame Arbeit bringen wir frische Ideen für tragfähige Konzepte, neue Technologien und gewünschte Manpower passgenau mit ein. 
+
+Klingt gut, let's connect!
+Technologien
+Für die Techies unter euch – hiermit kennen wir uns besonders gut aus.
+„Wir haben eine hervorragende Leistung erhalten, die jeden Euro wert war. Nach wie vor bestens zufrieden!“
+Martin Achatzi, Europas Canon Shop Nr. 1
+„Schnell, leistungsstark, präzise und flexibel. Wir haben unsere Agentur gefunden. Endlich angekommen!“
+„Die CONNECTIVISTEN verstehen es besser als andere, Businessanforderungen in Software zu übersetzen. Klare Empfehlung, fachlich und menschlich!“
+Kunden
+Langjährige Partnerschaft und ein freundschaftliches Miteinander liegen uns ganz besonders am Herzen.
+Mehr anzeigen
+News
+Frische Infos aus unserem Hauptsitz in Frankfurt und unserem Entwicklungszentrum in Darmstadt.
+Neue Zusammenarbeit
+Wir begrüßen einen neuen aufstrebenden Kunden im Bereich Future of Work aus München: Mentessa - Learning as a culture ist eine preisgekrönte KI-Plattform, die Unternehmen hilft, die Skills ihrer Mitarbeiter für Wissensaustausch und Zusammenarbeit als wichtigen Unternehmenswert gezielt zu kultivieren. Unsere Aufgabe besteht darin, ihre Lösung mit einer Smartphone-App zu erweitern. Wir freuen uns auf die Zusammenarbeit!
+Refactoring unserer Website
+Über den Jahreswechsel haben wir ein technisches Refactoring unserer eigenen Website vorgenommen und möchten hier einen kurzen Überblick über die Vorteile des Wechsels auf ein headless CMS SetUp mit Svelte in der Google Cloud geben.
+
+Durch die Umstellung profitieren wir nun von einer deutlich schnelleren Performance und geringerem Wartungsaufwand. Der Hauptvorteil besteht in der außerordentlichen Flexibilität der einzelnen Komponenten um die Website in Zukunft sehr schnell zu erweitern und anzupassen. Ein headless CMS bietet dabei eine großartige Benutzererfahrung bei der Pflege dynamischer Inhalte. Darüber hinaus kann das CMS - nicht nur für die Website - als Datenbasis für beliebig viele Kanäle und Apps genutzt werden. Im Zuge der Neuentwicklung haben wir das gesamte SetUp in unseren Kubernetes Cluster in die Google Cloud migriert und freuen uns über eine automatisierte CI/CD Pipeline, die alle Update Prozesse im Vergleich zur bisherigen WordPress Lösung in Zukunft stark vereinfacht. 
+
+Vielleicht ist ein solches headless SetUp auch etwas für euch? Dieses eignet sich neben dem Einsatz für Webseiten als Basis für alle Webanwendungen und Apps. Sprecht uns gerne an, wenn auch ihr von einer Modernisierung eurer Individualsoftware profitieren möchtet. 📞📩
+Neues Jahr, neues Glück
+Neues Jahr, neuer weiterer Standort! 📍 Ab heute werden wir regelmäßig in der Wissenschaftsstadt Darmstadt vor Ort sein. Neben unserem Hauptsitz in Frankfurt werden wir hier einen noch engeren Austausch zu IT Einrichtungen und renommierten Institutionen wie der TU Darmstadt und Hochschule Darmstadt pflegen. Zusätzlich bieten wir unseren Kunden durch die zentrale Lage am Hauptbahnhof einen weiteren Anlaufpunkt für Workshops & Meetings in einer der wichtigsten IT-Hochburgen Deutschlands. An alle Darmstädter Techies: Let's connect ✌😎
+Folge uns bei LinkedIn
+Lets connect
+Bereit? Wir sind es!
+Hey, ich bin Max, einer der Gründer der CONNECTIVISTEN. Für einen ersten Austausch stehe ich dir gerne persönlich zur Verfügung: Telefonisch, virtuell per Video-Call, bei LinkedIn oder ganz analog im Büro in Frankfurt oder Darmstadt – sag hallo. 
+Max Baumhögger
+M.Sc. Inf. | CTO
+Partner New Business
++49 (0) 69 3486 8080
+E-Mail schreiben
+Video-Call vereinbaren
+HAUPTSITZ FRANKFURT
+CONNECTIVISTEN GmbH
+Software Engineers
+Westhafenplatz 1
+60327 Frankfurt am Main
+
+Route planen
+ENTWICKLUNGSBÜRO
+CONNECTIVISTEN GmbH
+Software Engineers
+Berliner Allee 47
+64295 Darmstadt
+
+Route planen
+KONTAKT
+Ruf uns an:
++49 (0) 69 3486 8080
+Mo-Fr: 09:00-17:00 Uhr
+
+Schreib uns:
+info@connectivisten.de
+KUNDENSTIMMEN
+AGB
+Impressum
+Datenschutz

@@ -1,0 +1,61 @@
+K-iS Systemhaus Unternehmensgruppe
+_______________________________________________________________
+K-iS Systemhaus Unternehmensgruppe
+Ihr Partner für intelligente IT-Lösungen. 1996 gegründet, mit dem Hauptsitz in Siegen und Niederlassungen/Tochtergesellschaften in Simmern/Hunsrück, Freiburg, Koblenz, Berlin, Kassel, Basel (CH) und Salzburg (AT), steht die K-iS Systemhaus Unternehmensgruppe für professionellen IT-Service und ganzheitliche Betreuung.
+Als einer der führenden Platinum- und Gold-Partner von Citrix und Microsoft in der gesamten DACH-Region und in Kooperation mit weiteren renommierten Herstellern bietet unser 100-köpfiges Expertenteam jedem Kunden die optimale Lösung und vertraut dabei auf die Erfahrung aus hunderten Projekten.
+News
+TECH/n/HOP Vol. 13 – Managed K-loud
+20. März 2024
+Unter dem Motto „MANAGED K-LOUD: Sie kümmern sich um Ihr Business, wir kümmern uns um den Rest!“ laden wir Sie zur 13. Ausgabe unserer beliebten Webcast-Reihe TECH/n/HOP ein.
+Weiterlesen
+TECH/n/HOP Vol. 12 (Teil 2) verschoben!
+19. März 2024
+Leider müssen wir den geplanten Termin aus gesundheitlichen Gründen verschieben. Neuer Termin: Mittwoch, 17.04.2024 – 16:01 Uhr!
+Weiterlesen
+NEU: Komplette Dienstleistungs-Flatrate mit Managed Service Platin!
+27. Februar 2024
+Wir haben unser Managed Service-Angebot erweitert und bieten Ihnen mit der neuen Platin-Edition ein Rundum-sorglos-Paket zu monatlich festen Kosten an, bei dem wir die Verantwortung für Ihre IT-Umgebung übernehmen!
+Weiterlesen
+Passwort allein reicht nicht aus! SecurEnvoy-Promo
+20. Februar 2024
+Sparen Sie bis zum 31.03.2024 20 % Rabatt!
+Weiterlesen
+Alle Newsmeldungen
+Security News
+K-iS-Security Advisory 2024-006 – Microsoft Teams 2.0 – Client-Update
+14. März 2024
+Wir möchten Sie darüber informieren, dass ein neuer Microsoft Teams 2.0 Client verfügbar ist.
+Weiterlesen
+K-iS-Security Advisory 2024-005 – Sicherheitslücke in Windows Hyper-V – Remotecode-Ausführung
+14. März 2024
+Microsoft hat mit der CVE-2024-21407 sowie der CVE-2024-21408 Schwachstellen bekannt gegeben, die es Angreifern ermöglicht, bösartigen Code auf Hyper-V-Hosts und auf VMs auszuführen. Die Schwachstellen haben nach CVSS:3.1 eine Einstufung von 8.1 bzw. 5.5.
+Weiterlesen
+K-iS-Security Advisory 2024-004 – Exchange – Remotecode-Ausführung
+13. März 2024
+Microsoft hat mit der CVE-2024-26198 eine Schwachstelle bekannt gegeben, die es Angreifern ermöglicht, bösartigen Code auszuführen.
+Weiterlesen
+Alle Security News
+
+
+
+
+Senden Sie uns eine E-Mail
+Anrede*
+Herr
+Frau
+Divers
+Durch das Absenden des Fomulars stimme ich den Datenschutzbestimmungen zu. (Sollten Sie nicht zustimmen, wird Ihre Nachricht nicht übertragen.) *
+
+
+K-iS Systemhaus Unternehmensgruppe
+HQ: Sonnenstraße 33-35, D-57078 Siegen |
+Tel.: +49 271 31370-0 | info@k-is.com
+Übersicht aller Gesellschaften und Standorte
+Vereinbaren Sie direkt einen Termin mit uns
+Weiter
+
+© Copyright - K-iS Systemhaus Unternehmensgruppe
+Impressum
+AGB
+Diese Website verwendet Cookies – nähere Informationen dazu und zu Ihren Rechten als Benutzer finden Sie in unserer Datenschutzerklärung. Akzeptieren.AblehnenMehr lesen.
+Cookies löschen

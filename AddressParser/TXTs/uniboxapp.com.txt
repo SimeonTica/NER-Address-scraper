@@ -1,0 +1,26 @@
+HOME TRIAL FAQS
+“Unibox's slick interface and contact-centric design
+make it the best client we tried”
+
+
+
+PEOPLE
+CONVERSATIONS
+ATTACHMENTS
+PROVIDERS
+SINGLE WINDOW
+Emails grouped by Sender UNIQUE
+Unibox is a people-centric email client that organizes your messages by sender. The contact list on the left is sorted by the date of the last email and each person is displayed only once.
+Selecting a contact displays all messages that you exchanged with that person, similar to chat applications or smartphone SMS apps.
+Messages and Conversations SIMPLE
+Seeing all emails you exchanged with a person in one list lets you concentrate on the actual communication with that person, which feels much more natural.
+If you need to look at a specific conversation, possibly with multiple participants, Unibox lets you easily drill down into a thread view by clicking the button next to the subject.
+Attachments Reinvented BEAUTIFUL
+Unlike other email clients Unibox displays attachments not only as part of the message but provides you with two additional views containing all files that you exchanged with another person.
+The icon view presents small attachment previews in a beautiful grid while the list view gives you detailed information about the attached files in a clean table.
+Many Providers FLEXIBLE
+Unibox supports the IMAP protocol which is used by the majority of email providers, including iCloud, Gmail, Outlook.com, Hotmail, Live.com, Yahoo! and many more. Custom IMAP servers are also supported, as well as Microsoft Exchange if it has IMAP enabled.
+Single Window INSTANT
+Reading and writing emails both work in the same window. This way you never lose context if you reply to an email or write a new one. The mail editor only takes the space that is needed for the current message, giving you as much space as possible to review other emails or attachments while writing.
+Email has never been this close to instant messaging.
+© eightloops GmbH · All rights reserved · Contact us · Privacy (Website) · Privacy (App) · Press

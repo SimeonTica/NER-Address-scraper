@@ -1,0 +1,20 @@
+Welcome to ONLINEPRINTERS
+Please select your country:
+Belgique
+FR NL
+Danmark
+Deutschland
+España
+France
+Ireland
+Italia
+Luxembourg
+DE FR
+Nederland
+Österreich
+Polska
+United Kingdom
+Sverige
+Switzerland
+DE FR IT
+Legal Notice GTC Privacy Notice

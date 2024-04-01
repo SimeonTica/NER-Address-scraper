@@ -1,0 +1,86 @@
+We respect your privacy
+Cookies are a common feature of most websites and we use them too. A cookie is a small text file that is downloaded to your device should you agree, to allow the site to function. We use cookies for different reasons including helping you stay logged into your account, measuring your visits on our site, recognising and remembering your preferences. We use analytics to help us improve our services and these are provided by our partners including social media and analytics and these may also use cookies. We do not share your personal information with these partners without your consent. Please see our privacy policy for further information.
+Consent Selection
+Necessary
+Preferences
+Statistics
+Marketing
+Show details
+
+
+
+
+
+
+
+
+
+
+Use necessary cookies only
+Allow selection
+Allow all cookies
+Powered by Cookiebot by Usercentrics
+LOGIN
+SIGN-UP
+About
+Products
+Markets
+Storage Solutions
+Technology
+Downloads
+Reliable Data Storage for Automotive Solutions
+eMMC & SD flash controllers for fast booting storage in navigation systems, infotainment, telemetry, event data recorders, and instrument clusters
+Learn More...
+NAND Flash Memory Controllers for Industrially Embedded Storage Solutions
+Our Flash Memory Controller portfolio supports a range of interfaces and form factors including SD cards, microSD, USB Flash Drives, CF cards, SATA and PATA SSDs, Disk-on-Module and Disk-on-Board solutions as well as eMMC
+Pioneers in the NAND flash memory controller business, at Hyperstone we design and develop highly reliable, robust controllers for industrial and embedded NAND flash based storage solutions. We pride ourselves on developing innovative solutions, which enable our customers to produce world-class products for global data storage applications. Our flash memory controller portfolio supports a range of interfaces and form factors including SecureDigital (SD) cards, microSD, USB flash drives, Compact Flash (CF) cards, Serial ATA (SATA) and Parallel ATA (PATA) SSDs, Disk-on-Module (DoM) and Disk-on-Board (DoB) solutions as well as embedded flash solutions such as eMMC. Our NAND flash management technology hyMap is also supplied free and is customized for each flash application, ensuring rigorous fail-safe features and data retention. Non-Volatile storage solutions demands powerful error correction, refresh algorithms, wear leveling, and read and program disturb management as well as many other features to be used reliably, which is why your choice of NAND Flash Controller is so important.
+Learn more...
+Looking for Storage Modules?
+Swissbit develops and manufactures industrial storage and security products with long-term availability, high reliability and custom optimization.
+Visit Swissbit
+Hyperstone SSD Controller
+Flash controller for SSDs and other SATA based NAND Flash storage modules including U.2, M.2, MO-297 and MO-300
+The X1 SATA SSD controller is designed to meet the demands of industrial applications, boasting high power efficiency. It features a 32-bit dual-core microprocessor equipped with specialized instruction sets and hardware accelerators tailored for efficient flash memory management. The controller incorporates hyMap®, a customizable sub-page-based Flash Translation Layer (FTL), along with FlashXE® eXtended Endurance and hyReliability™ flash management for enhanced durability and reliability. 
+Learn more...
+Hyperstone microSD & SD Controller
+Flash controller for microSD & SD cards and other SD based NAND flash storage applications
+The S9 microSD and SD controller is designed to meet the demands of industrial applications. Its security variant is a specialised security controller designed for industrial applications that demand greater flexibility and additional security features. Together with provided hyMap® firmware and our API which allows for customer firmware extensions, the S9S offers an easy-to-use turnkey solution for industrial, high endurance, robust flash memory drives or modules compatible to host systems up to the SD 7.1 interface.
+Learn more...
+Corporate
+About Us
+News & Press
+Job Opportunities
+Products
+Contact
+Storage Solutions
+Technology
+Swissbit
+Download Center
+Support
+Markets 
+Automotive
+Energy
+IoT
+Industrial Automation
+Medical
+Security
+Telecommunication
+Transportation
+Recent News
+Research consortium sets standards in the field of open source hardware
+25. October 2023
+Hyperstone celebrates new office spaces and future developments
+12. July 2023
+Hyperstone awarded JOSCAR Certification for Supply Chain Security
+31. May 2023
+Subscribe to our Newsletter!
+I accept Hyperstone’s Terms of Use
+Subscribe
+Quality
+/
+Legal Notice
+/
+Privacy Policy
+/
+Sitemap
+Copyrights © 2024 All Rights Reserved by Hyperstone GmbH

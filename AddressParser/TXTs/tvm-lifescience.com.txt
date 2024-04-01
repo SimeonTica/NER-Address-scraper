@@ -1,0 +1,50 @@
+FUNDING REQUEST
+.uk-navbar-toggle-animate svg>[class*="line-"]{transition:0.2s ease-in-out;transition-property:transform, opacity;transform-origin:center;opacity:1}.uk-navbar-toggle svg>.line-3{opacity:0}.uk-navbar-toggle-animate[aria-expanded="true"] svg>.line-3{opacity:1}.uk-navbar-toggle-animate[aria-expanded="true"] svg>.line-2{transform:rotate(45deg)}.uk-navbar-toggle-animate[aria-expanded="true"] svg>.line-3{transform:rotate(-45deg)}.uk-navbar-toggle-animate[aria-expanded="true"] svg>.line-1,.uk-navbar-toggle-animate[aria-expanded="true"] svg>.line-4{opacity:0}.uk-navbar-toggle-animate[aria-expanded="true"] svg>.line-1{transform:translateY(6px) scaleX(0)}.uk-navbar-toggle-animate[aria-expanded="true"] svg>.line-4{transform:translateY(-6px) scaleX(0)}
+Making investments to transform healthcare
+Supporting breakthrough therapies and medical products that benefit patients and the healthcare system.
+ABOUT US
+Making investments to transform healthcare
+Funding novel, disruptive life science innovations
+Driving an industry breakthrough investment strategy
+Our mission is to invest in the development of exciting life science products and the growth of companies to become innovative leaders in their market segment. As true partners, we work closely with our portfolio companies, striving to enable their ideas and bring new therapies and medical products to market. Our track record of successful collaborations highlights our partnership and value-building approach.
+ABOUT US
+Our Approach
+We have a unique two-pronged strategy. The first is the financing of innovative early-stage therapeutics through a single asset company approach that leverages our strategic relationship with global pharmaceutical firm Eli Lilly and Company. The second is to invest in differentiated commercial-stage medtech, diagnostics, and digital health products as well as late-stage therapeutics.
+STRATEGY & APPROACH
+Our portfolio companies are a top priority.
+VIEW ALL
+>150
+LIFE SCIENCE INVESTMENTS
+900 M
+EURO IN ASSETS
+UNDER MANAGEMENT
+>100
+YEARS OF VENTURE CAPITAL AND INDUSTRY EXPERTISE OF TEAM MEMBERS
+News
+ALL NEWS
+March 13, 2024
+TVM CAPITAL LIFE SCIENCE TO PARTICIPATE IN LSI USA ’24 EMERGING MEDTECH SUMMIT 2024
+February 6, 2024
+TVM Capital Life Science Co-Leads $16 Million Series A Financing Round for Vektor Medical to Revolutionize Arrhythmia Care
+January 31, 2024
+TVM Capital Life Science Announces €8 Million Investment in myo to Revolutionize Elderly Care via Innovative, Easy-to-Use App
+Events
+ALL EVENTS
+February 28-29, 2024
+17th Annual European Life Sciences CEO Forum
+TVM Capital Life Science will take part in the 17th Annual European Life Sciences CEO Forum February 28-29, 2024 in Zurich, Switzerland at the Hilton Zurich Airport Hotel.
+Zurich, Switzerland at the Hilton Zurich Airport Hotel
+Website
+A strong team to support innovators
+Our team brings together a variety of skills and experience as well as a passion for the life sciences.
+MEET THE TEAM
+About Us
+Strategy & Approach
+Portfolio
+News & Events
+Contact
+Funding Request
+ESG Disclosure
+Privacy Policy
+Imprint
+Copyright © 2024- TVM Capital Life Science Venture Capital

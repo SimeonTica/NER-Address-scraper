@@ -1,0 +1,51 @@
+Comfy Group
+Our Company
+Our Brands
+Our Products
+Careers
+Contact
++44 (0) 3303 322 575
+Previous
+Next
+Everything you need
+to get a great night’s sleep
+Here at Comfy Group we love everything about sleep. That’s why we offer everything that anyone could ever need for that great sleep feeling. Pillows, duvets, toppers, electric blankets, bed linen and more. Just as importantly, we pride ourselves on offering something to suit every budget as well as everybody.
+SEE OUR PRODUCTS
+Our brands
+We are the proud licensee of several of the biggest brands in UK bedding including Silentnight and Sealy, as well as our own brands including nanu, Snug and Soundasleep.
+//foreach( $myposts as $post ) : //setup_postdata($post); ?>
+Pillows
+//foreach( $myposts as $post ) : //setup_postdata($post); ?>
+Duvets
+//foreach( $myposts as $post ) : //setup_postdata($post); ?>
+Toppers
+//foreach( $myposts as $post ) : //setup_postdata($post); ?>
+Protectors
+//foreach( $myposts as $post ) : //setup_postdata($post); ?>
+//foreach( $myposts as $post ) : //setup_postdata($post); ?>
+//foreach( $myposts as $post ) : //setup_postdata($post); ?>
+//foreach( $myposts as $post ) : //setup_postdata($post); ?>
+//foreach( $myposts as $post ) : //setup_postdata($post); ?>
+Our Heritage
+We’re a family run business and started from humble beginnings. Established in 1973, our growth has led us to become one of Europe’s leading manufacturers of duvets and pillows. Our products are lovingly made at our factory in Manchester and it’s estimated that 1 in 3 people in the UK sleep on a pillow we have made.
+LEARN MORE
+Quality
+Comfort
+Creativity
+Our Company
+Our Brands
+Our Products
+Awards & Accreditation
+Sustainability
+Careers
+Legal
+Privacy Notice
+Modern Slavery Act
+Gender Pay Gap Report
+Cookie Policy
+Health & Safety Policy
+Environmental Policy
+Contact Us
++44 (0) 3303 322 575
+customerservices@comfygroup.co.uk
+  © 2024 Comfy Group

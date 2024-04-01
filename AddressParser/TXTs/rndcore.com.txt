@@ -1,0 +1,17 @@
+Deprecated: Non-static method JApplicationSite::getMenu() should not be called statically, assuming $this from incompatible context in /home/rndcor5/public_html/templates/gk_creativity/lib/framework/helper.layout.php on line 167
+
+Deprecated: Non-static method JApplicationCms::getMenu() should not be called statically, assuming $this from incompatible context in /home/rndcor5/public_html/libraries/cms/application/site.php on line 250
+IDEATION CASE STUDY
+ATLAS Problem Cycling is an extremely enjoyable physical activity and a highly practical and economical means of transportation, particularly in cities. It has the potential to reduce traffic congestion, pollution and noise,...
+Read more
+RAPID PROTOTYPING CASE STUDY
+Background Despite the advent of high end, high resolution graphic displays, (segment) Liquid Crystal Displays (LCD) can be a preferred technology when component cost, ease of interface, low power and risk...
+Read more
+GOT A PROBLEM?!
+We can devise a solution
+CONTACT US NOW!
+TERMS PRIVACY POLICY INTELLECTUAL PROPERTY NOTICE
+© R&D CORE Ltd 2020
+NOTE! This site uses cookies
+If you do not change your browser settings, you agree to accept them. Learn more
+I understand

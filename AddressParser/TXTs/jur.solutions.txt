@@ -1,0 +1,60 @@
+DEEN
+Moin,
+mein Name ist Tim Juretzek. Ich bin Gründer und Geschäftsführer der Jur Solutions GmbH. Viel mehr jedoch bin ich Programmierer, Projektmanager, Berater und Lösungsfinder.
+Auf dieser Seite möchte ich mich kurz vorstellen und einen Überblick über meine bisherigen Projekte, Auftraggeber und meine Dienstleistungen geben. Sie sind auf der Suche nach einer externen und ortsunabhängigen Verstärkung? Dann könnte ich für Ihr Projekt genau der Richtige sein.
+Das Licht der Welt erblickte ich 1986 in der wunderschönen Hansestadt Hamburg im gleichen Krankenhaus, in dem später auch meine beiden Töchter geboren wurden. 1990 zog meine Familie nach Bremen doch 2006 kehrte ich nach Hamburg zurück.
+Meine ersten Webseiten erstellte ich im Alter von fünfzehn Jahren. Im Jahre 2010 wagte ich im Alter von vierundzwanzig Jahren den Schritt in die Selbständigkeit. Die Jur Solutions GmbH gründete ich drei Jahre später, im April 2013.
+Während meiner 20 Jahre im IT-Sektor hat sich im Internet so einiges getan. Aus Tabellen-Layouts wurde responsives Design, aus "Desktop Only" wurde "Mobile First" und der Internet Explorer 6 musste einer Vielzahl an modernen Browsern Platz machen.
+Diese und viele weitere spannende Entwicklungen durfte ich hautnah miterleben und wurde so vom anfänglichen Junior zum Intermediate und letztendlich zum Senior Frontend Entwickler.
+Skills
+EXPERTISE
+PROJEKT-
+MANAGEMENT
+ZUVERLÄSSIGKEIT
+KOMMUNIKATION
+TEAM-
+FÄHIGKEIT
+Alleine oder im Team
+Durch meine vielseitige berufliche Erfahrung habe ich mit einer Vielzahl von großen und kleinen Teams zusammengearbeitet, oftmals in leitender Position.
+Sehr gerne arbeite ich mit einem vorgeschalteten Projektmanagement zusammen, bringe aber bei Bedarf auch eine große Menge Erfahrung mit, wenn es darum geht, die Projektkoordination und technische Dokumentation selbst in die Hand zu nehmen.
+Ob remote oder vor Ort, alleine oder im Team: mein Anspruch an mich selbst beinhaltet ein hohes Maß an Flexibilität sowie eine aktive, klare Kommunikation in allen Projektphasen. Eigenständigkeit und Zuverlässigkeit sind für mich dabei mindestens genauso wichtig, wie die reibungslose Arbeit im Team.
+„Eine Kette ist immer nur so stark, wie ihr schwächstes Glied“ ist nicht nur eine Floskel, sondern spielt für mich eine enorme Rolle. Mein Wissen und meine Expertise stelle ich meinem gesamten Team jederzeit zur Verfügung.
+Ich empfinde es als das größte Glück, dass ich meine Leidenschaft zum Beruf machen konnte. Der Anreiz meiner Arbeit besteht für mich in der Abwechslung. Ich liebe es neue Technologien kennenzulernen oder bestehende Infrastrukturen weiterzuentwickeln. Eine gewisse Portion Furchtlosigkeit und die Gewissheit, dass sich im Web beinahe alles realisieren lassen kann, helfen mir dabei mich schnell in neue Projekte einzufinden und zur Zufriedenheit aller Beteiligten umzusetzen. Bis heute habe ich deshalb noch keine Deadline verstreichen lassen.
+Häufig genutzte Tools & Technologien
+AMP
+Craft CMS
+CSS3
+HTML5
+Javascript
+GreenSock
+Gulp.js
+jQuery
+Laravel
+Node.js
+PHP
+plesk
+Progressive Web App
+React
+Sass
+Twig
+TypeScript
+Vercel
+vue.js
+webpack
+Wordpress
+ZURB Foundation
+Die GmbH
+Nach vorhergegangenen drei Jahren der Solo-Selbstständigkeit sollte es im Jahr 2013 soweit sein. Ich gründete im April 2013 die Jur Solutions GmbH und kann seither die Vielzahl an Vorteilen nutzen und bieten, die eine GmbH mit sich bringt.
+Diese Gesellschaftsform erlaubt Auftraggebern Vorzüge, die ein Solo-Selbstständiger nicht hat. Auch, wenn ich wie ein Freelancer arbeiten kann, steht eine GmbH in meinem Rücken.
+Einer der größten Pluspunkte bildet die Möglichkeit langfristige Dienstleistungs-Verträge mit meinen Auftraggebern schließen zu können. Ein klassischer Freelancer darf im Jahr nur maximal 80% seines Jahresumsatzes über einen einzigen Kunden machen, ansonsten begibt er sich in eine Scheinselbständigkeit. Bei der Zusammenarbeit mit mir, gibt es diesbezüglich keinerlei Einschränkungen. Eine lange Einsatzdauer für große Projekte ist somit problemlos realisierbar.
+Durch die Firmierung kann ich, bei Bedarf, flexibel und unkompliziert weitere Entwickler aus meinem bestehenden Netzwerk zu Projekten zuschalten und eigenständig Verträge schließen ohne dass dadurch für den Auftraggeber ein zeitlicher oder organisatorischer Mehraufwand entsteht.
+Ein weiterer Vorteil ist die beschränkte Haftung der Gesellschaft. Der Umgang mit großen und/oder sensiblen Datenmengen erfordert ein Sicherheitsnetz in Form von Versicherungen. Die GmbH bietet mir und Ihnen diesen Schutz und schützt vor dem größten Unsicherheitsfaktor der IT-Branche: dem Menschen.
+Auftraggeber
+Kunden
+Kontakt
+Für Verfügbarkeits- und Projektanfragen stehe gerne unter folgenden Kontaktmöglichkeiten zur Verfügung:
+0160 / 552 991 7
+tim@jur.solutions
+*COOKIE FREE: Diese Seite verzichtet auf den Einsatz jeglicher Cookies oder Session Storages zur Speicherung von Nutzerdaten.
+Impressum
+ 

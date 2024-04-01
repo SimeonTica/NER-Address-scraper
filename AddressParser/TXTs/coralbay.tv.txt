@@ -1,0 +1,36 @@
+Next generation playout
+  +44 113 873 0002       info@coralbay.tv
+HOME
+COMPANY
+PRODUCTS
+NEWS & EVENTS
+SUPPORT
+CONTACT US
+The landscape is changing…
+coralbay.tv is a new company offering realtime playout and content preparation solutions for both the cloud and the facility.
+LEARN MORE
+coralbay.tv
+coralbay.tv is an innovative software company that is developing next generation products for playout of TV channels. Our products are designed using microservices and are deployed and orchestrated using docker containers and Kubernetes.
+ The architecture of our software enables hosting in the cloud, on virtual machines or on bare metal servers. When hosting in the cloud the software takes advantage of the inherent elasticity and redundancy that the cloud offers, resulting in flexible systems that can be scaled up or down to suit our customers needs at any given time. Our software provides an automation control interface, as well as a video pipeline, delivering video and audio in a variety of output formats.
+Many of our competitors, who have systems that were originally designed as classic real time playout systems, claim to have cloud solutions when all they have really done is run their existing software under a VM or in a cloud environment. Although in theory their software may run, if it hasn’t been designed from the ground up to operate in an environment that doesn’t guarantee the availability of resources all the time, it isn’t practical to operate such systems in the cloud. Cloud service providers, such as Amazon, charge by the amount of resources consumed. Legacy real time systems that were designed to run on the ground were rarely optimised to minimise resource usage (as server hardware was cheap), so if lifted into a cloud environment the run-time costs could be extremely high. coralbay.tv is developing a new generation of playout solution using microservices that is optimised for cloud hosting and/or cloud playout. The software is deployed using docker containers and uses standard orchestration.
+VIDEO
+WORK FLOW
+CLOUD NATIVE
+DOCKER
+What We Offer
+coralbay.tv offers cost effective software based playout solutions that can be hosted on bare metal, virtual machines or in public clouds such as AWS, Google Cloud or Microsoft Azure. The software provides an automation control interface as well as a video pipeline, delivering video and audio in a variety of output formats.
+LEARN MORE
+ABOUT
+We recognise that the desire to host video solutions in the cloud varies from one user to another. By architecting all of our applications using the latest cloud technologies….Read More
+UPCOMING EVENTS
+coralbay.tv will be at NAB 2024 in Las Vegas, Nevada, USA (14-17th April) in North Hall, Stand SL4084.
+Read more…
+CONTACT INFORMATION
+  Mabgate Business Centre
+99 Mabgate Road
+Leeds
+LS9 7DR
+United Kingdom
+  +44 113 873 0002
+   info@coralbay.tv
+© 2023 coralbay.tv Ltd. All rights reserved.

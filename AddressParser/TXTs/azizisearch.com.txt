@@ -1,0 +1,112 @@
+0
+HOME
+PRODUCTS
+DEMOS
+ADD-ONS
+SUPPORT
+CONTACT US
+Enhance Your Search Engine with AI ChatGPT Plugin
+Elevate your search experience with our cutting-edge AI ChatGPT Plugin. Get quick, detailed answers, code-related responses, and more for your users.
+LEARN MORE
+CREATE A PHP SEARCH ENGINE FOR NEXT WEB
+Azizi search engine script is a powerful tool to develop your own PHP search engine
+Build the PHP Search Engine You Need.
+Whether you require a PHP web crawler, meta search engine, or site search functionality, our range of search engine solutions will cater to your specific requirements.
+DISCOVER OUR SEARCH SOLUTIONS
+Explore our demos
+SEARCH SOLUTIONS
+Tailored to Suit Your Needs
+PHP SEARCH LITE
+WITH FREE API
+A metasearch engine that utilizes data exclusively from the Google Free API to generate its own results, incorporating custom ranking and production algorithms.
+
+Monetization potential with internal ads
+Integrated with Adsense for search
+Utilizes Google Free API
+View Demo
+PHP SEARCH PRO
+WITH PAID APIS
+A metasearch engine that leverages data from Paid APIs to generate its own results, utilizing custom ranking and production algorithms.
+Monetization potential with internal ads
+Utilizes Google paid API
+Utilizes Bing paid API
+Option to add any other API
+User submission of websites
+View Demo
+PHP SEARCH ADVANCED
+CRAWLER/SPIDER
+A search engine spider, also known as a web crawler, is an Internet bot that autonomously crawls websites and stores information for indexing purposes.
+Monetization potential with internal ads
+Data stored in your own database
+User submission of websites
+Contact Us
+FEATURES OVERVIEW
+Explore the Power of PHP Search Engine Solutions
+OPEN SOURCE PHP SEARCH ENGINE
+Harness the flexibility of PHP to build your own search engine. Our PHP search engine script is open source, allowing you to customize it to your needs.
+ADVANCED PHP WEBCRAWLER
+Efficiently crawl websites using our PHP webcrawler. Seamlessly collect data and index it for an enhanced search experience.
+CUSTOMIZABLE SEARCH ENGINE PHP SCRIPT
+Create a tailored search engine with our versatile PHP script. Enjoy endless possibilities for customization and adaptability.
+OPTIMIZED PHP SEARCH RESULTS
+Deliver highly relevant and engaging search results with our optimized PHP search engine. Enhance the user experience and drive satisfaction.
+EFFICIENT PHP MYSQL SEARCH ENGINE
+Leverage the power of PHP and MySQL for a high-performance search engine. Experience unmatched speed and reliability.
+CREATE A PHP SEARCH ENGINE
+Realize your vision of building a search engine in PHP. Utilize our comprehensive resources and bring your ideas to life.
+PHP WEBSITE SEARCH SCRIPT
+Deploy a powerful PHP website search script with a responsive layout. Seamlessly adapt to various screen sizes and devices.
+ENHANCE WITH RETINA GRAPHICS
+Deliver visually stunning and razor-sharp graphics on Retina displays. Impress users with a clean and streamlined design.
+RELIABLE PHP SEARCH ENGINE SCRIPT
+Experience exceptional support from our dedicated team. We are here to assist you throughout your PHP search engine journey.
+EXTEND WITH ADDONS
+Enhance Your PHP Search Engine with Addons
+Unlock a world of possibilities by installing addons from our comprehensive store. Customize your PHP search engine with additional features and functionality, starting small and growing as needed. Explore our add-ons store today.
+EXCEPTIONAL SUPPORT FOR YOUR PHP SEARCH ENGINE
+Dependable Support Team at Your Service
+Benefit from active development and continuous updates for your PHP search engine. Stay ahead with our up-to-date knowledge base in our support center. Our dedicated and friendly support team is focused on ensuring the smooth operation of your website. Experience our outstanding support and love your PHP search engine.
+TESTIMONIALS
+What people said about azizi search engine script
+Good search utility with fast results. Many features displayed in a clean and efficient manner. The admin panel is easy to use and offers just the right amount of options. Support has been excellent.
+MUJTBA H
+www.draze.com
+AZIZI search engine script is one of the best program I have found in a years the support staff was very helpful. Simply beautiful themes , There is something for everyone! AZiZi has some amazing theme designs and the features built in to get your business searching website rolling. Definitely one of our favourite sites.
+PATCHAREE HEMMING
+www.coodcood.com
+The script of the search engine Azizi is highly customizable, it is really not bad as script of the moment as it is simple to use and extremely fast with an omnipresent power.
+This is really the search engine script!
+COPOL EDDY
+tekbul.com
+The Azizi search engine script is highly customization, installs in seconds after the upload and support staff has been helpful and responsive to my requests... Easily give it five stars...
+JOHN COLASCIONE
+www.searchen.com
+DEAN PETERS
+search.tech24bd.xyz
+The search engine script is very responsive and has good options in the control panel. It is fully customizable to meet all your needs. The support has been great unlike other sellers. I rate it 4 stars.
+YVES LAVOIE
+dyeez.com
+FAQ - PHP SEARCH ENGINE SCRIPT
+Answers to Commonly Asked Questions about PHP Search Engine
+Q. What is a PHP Search Engine?
+A PHP Search Engine is a powerful tool that enables you to create a customized search engine based on APIs (meta search engine script) or your own web crawler. Azizi PHP Search Engine Script offers a user-friendly control panel that allows you to customize and manage your search engine without any coding knowledge.
+Q. Can the PHP Search Engine Script be used as an add-on to my website?
+Yes, absolutely. With the single domain license, you can use the PHP Search Engine Script either as a standalone search engine service or integrate it as an add-on to an existing website. Please note that the license is non-transferable.
+Q. Is the source code of the PHP Search Engine Script encrypted?
+No, the source code of our PHP Search Engine Script is 100% unencrypted. You have the freedom to make any necessary modifications. The code is extensively commented, providing guidance throughout.
+Q. Do I need separate hosting for the PHP Search Engine Script?
+No, you can use the PHP Search Engine Script on any server that efficiently supports PHP and MySQL. Just ensure that your hosting environment meets the minimum requirements of the Azizi PHP Search Engine Script.
+Q. Is the installation process of the PHP Search Engine Script easy?
+Yes, the installation process is straightforward and quick. Within minutes of uploading the script to your site, you can have it up and running. Alternatively, if you prefer, our support team can install it for you at no additional cost. For detailed instructions, you can refer to our step-by-step guide on installing the Azizi PHP Search Engine Script.
+Q. I have more questions before purchasing the PHP Search Engine Script. What should I do?
+We welcome your questions and appreciate your interest. Please don't hesitate to contact our support team. We will respond promptly to address your queries.
+Q. How easily can I customize the PHP Search Engine Script?
+We have made the customization of the PHP Search Engine Script incredibly easy and user-friendly. The entire source code is unencrypted and extensively commented. Additionally, we provide fully commented HTML templates for every page, including global header/footer templates and a well-organized CSS stylesheet. If you require further assistance, our support team is ready to help you customize your search engine as per your requirements.
+Q. Are future updates of the PHP Search Engine Script free?
+Minor updates, such as from version 4.1.0 to 4.2.0, are provided free of charge. These updates are released frequently, usually once per month. Major updates, like upgrading from version 4.x to 5.x, may require a small upgrade fee (typically ranging from $10 US to $75 US) and include significant new functionality and improvements.
+READY TO GET STARTED?
+Take action and create your own search engine now!
+PLAY DEMOS
+Copyrights © 2013 - 2024 All Rights Reserved by AZIZI GLOBAL LTD
+Terms of Use / Privacy Policy / Cookies Policy
+Live chat! · Get in touch!

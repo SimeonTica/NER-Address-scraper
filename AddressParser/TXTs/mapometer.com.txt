@@ -1,0 +1,72 @@
+Home Search Events Help
+Login
+Map your running, cycling and walking routes. Calculate route distances and elevation profiles.
+Route information
+                                Running
+                                Walking
+                                Cycling
+                                Mountain biking
+                                Swimming
+                                Canoeing
+                                Horse riding
+                                Downhill skiing
+                                Cross-country skiing
+                             distance
+0.00 km
+energy
+0 kJ
+
+
+Draw Route
+Follow roads
+
+Start
+Stop
+Close loop
+Out & back
+Undo
+Clear all
+
+Save
+Print
+Edit Route
+
+
+
+
+
+
+
+
+Graphs
+Show Elevation
+Show Gradient
+Refresh Elevation
+Preferences
+
+
++
+−
+Leaflet | Powered by Esri | © Stadia Maps, © OpenMapTiles © OpenStreetMap contributors
+What is Mapometer.com?
+Mapometer.com is an online map-basedroute planner for sports people. It enables you to map your runs, cycles and walks and calculate the distances and elevation profiles of your routes. It also provides training logs so you can track your progress and monitor the calories you burn. Used by athletes worldwide as a tool to train for marathons, half-marathons and triathlons and charity runs.
+What can Mapometer.com do for you?
+Can I map my runs to see how far I went? YES
+Can I plan my routes before I cycle them? YES
+Can I view the elevation profile of my cycle routes? YES
+Can I see much energy am I burning on my runs or cycle rides? YES
+Can I record and track my training over time? YES
+Can I search for new routes or places to go running or walking? YES
+Advertisements
+
+
+
+
+
+
+
+
+
+
+
+We use cookies to help improve your user experience. By continuing to use this site you are consenting to our use of cookies.learn moreOK
